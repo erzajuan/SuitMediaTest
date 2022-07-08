@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SuitMediaApp</string>
+    <string name="welcome">Welcome</string>
+    <string name="firstname">FirstName</string>
+    <string name="image_first_screen">Image First Screen</string>
+    <string name="selected_user_name">Selected User Name</string>
+    <string name="choose_a_user">Choose a User</string>
+    <string name="next">NEXT</string>
+    <string name="check">CHECK</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="avatar">avatar</string>
+    <string name="selectedusername">Selected User Name</string>
+</resources>
